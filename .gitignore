@@ -25,3 +25,5 @@ BenchmarkDotNet.Artifacts/
 filedata.bin
 *.binlog
 src/VBTest/*
+Debug
+Release
